@@ -1,0 +1,13 @@
+.event-text {
+  white-space: nowrap; 
+  overflow: hidden; 
+  text-overflow: ellipsis; 
+  flex: 1;
+}
+
+.event-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center; 
+  margin-bottom: 1px;
+}
